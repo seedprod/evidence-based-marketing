@@ -1,8 +1,7 @@
 {
   "name": "evidence-based-marketing",
   "owner": {
-    "name": "John Turner",
-    "url": "https://johndturner.com"
+    "name": "John Turner"
   },
   "metadata": {
     "description": "Research-backed marketing skills with academic citations",
@@ -11,12 +10,14 @@
   "plugins": [
     {
       "name": "evidence-based-marketing",
-      "source": "github:SeedProd/evidence-based-marketing",
+      "source": {
+        "source": "github",
+        "repo": "SeedProd/evidence-based-marketing"
+      },
       "description": "Persuasion psychology and pricing behavioral economics with 15+ peer-reviewed citations. Covers Cialdini, Kahneman, Ariely, and more.",
       "version": "1.0.0",
       "author": {
-        "name": "John Turner",
-        "url": "https://johndturner.com"
+        "name": "John Turner"
       },
       "license": "MIT",
       "keywords": ["marketing", "persuasion", "pricing", "behavioral-economics", "copywriting"]
