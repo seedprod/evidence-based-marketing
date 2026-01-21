@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "evidence-based-marketing",
-      "source": ".",
+      "source": "github:SeedProd/evidence-based-marketing",
       "description": "Persuasion psychology and pricing behavioral economics with 15+ peer-reviewed citations. Covers Cialdini, Kahneman, Ariely, and more.",
       "version": "1.0.0",
       "author": {
