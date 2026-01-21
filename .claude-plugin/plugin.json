@@ -1,0 +1,12 @@
+{
+  "name": "evidence-based-marketing",
+  "description": "Research-backed marketing skills with academic citations. Covers persuasion psychology (Cialdini, Kahneman) and pricing behavioral economics (anchoring, decoy effect, charm pricing). Each principle marked with evidence level.",
+  "version": "1.0.0",
+  "author": {
+    "name": "John Turner",
+    "url": "https://johndturner.com"
+  },
+  "homepage": "https://johndturner.com",
+  "repository": "https://github.com/SeedProd/evidence-based-marketing",
+  "license": "MIT"
+}
